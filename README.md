@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Lucas_Pandian Status](https://github-readme-stats.vercel.app/api?username=LuScA1829&show_icons=true&theme=dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuScA1829&layout=compact&theme=dark&locale=pt-br)
